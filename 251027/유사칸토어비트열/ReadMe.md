@@ -1,5 +1,7 @@
 # 유사 칸토어 비트열 해설
 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+
 ## 1. 배경
 
 - n = 1일 때, 칸토어 비트열은 `11011`입니다.  
